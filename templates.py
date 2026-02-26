@@ -2,7 +2,7 @@ TEMPLATES: dict[str, str] = {
     "rsvp_reminder": (
         "Hi {name}! This is a friendly reminder to RSVP for {couple_names}'s wedding. "
         "Please visit {rsvp_link} to let us know if you can make it. "
-        "We'd love to celebrate with you!"
+        "We can't wait to hear from you!"
     ),
 }
 
